@@ -3,4 +3,4 @@ def sort_array_asc(intergers)
 end
 
 def sort_array_desc(intergers)
-  intergers.sort 
+  intergers.sort {|first_num, 
